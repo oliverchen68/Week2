@@ -72,7 +72,7 @@ h2 {
   margin-top: 64px; }
 
 .Header {
-  background-image: url("/img/container_background.png");
+  background-image: url("img/container_background.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border: 1px solid #707070;
@@ -206,5 +206,4 @@ h2 {
     padding-top: 64px; }
   .footer_Contact li {
     padding-top: 16px; }
-    
 /*# sourceMappingURL=all.css.map */
